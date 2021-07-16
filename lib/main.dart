@@ -103,9 +103,13 @@ class _HomePageState extends State<HomePage> {
                 SizedBox(height: 25),
                 Center(
                   child: Container(
-                    child: Image.asset(
-                      'assets/image1.jpg',
-                      height: 250,
+                    height: 250,
+                    decoration: BoxDecoration(
+                      image: DecorationImage(
+                        image: AssetImage(
+                          'assets/image1.jpg',
+                        ),
+                      ),
                     ),
                   ),
                 ),

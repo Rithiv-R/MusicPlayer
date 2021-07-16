@@ -1,4 +1,4 @@
-# MusicPlayer
+# Music Player
 
 This Project is on MusicPlayer with functionalities such as playing song ,pausing song,forwarding song,backwarding song made by using Flutter and Dart .
 
@@ -8,15 +8,15 @@ This Project is on MusicPlayer with functionalities such as playing song ,pausin
 
 ## ScreenShots
 
-## HomePage
+## Home Page
 
 ![HOME](assets/screenshots/start.jpg)
 
-## Play
+## Play Action
 
 ![PLAY](assets/screenshots/play.jpg)
 
-## Pause
+## Pause Action
 
 ![PAUSE](assets/screenshots/pause.jpg)
 
